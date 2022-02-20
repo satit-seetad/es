@@ -1,2 +1,2 @@
 # es
-example of ECMAScript
+example of using ECMAScript
