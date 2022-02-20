@@ -1,0 +1,2 @@
+# es
+example of ECMAScript
